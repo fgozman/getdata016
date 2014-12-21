@@ -1,7 +1,11 @@
-getdata016 - Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
 ==========
 
-The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+
+Background information
+==========
+
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person ptheerformed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. For other details please read README.txt from the downloaded file.
 
 Each measurement row contain the average of the mean and of the standard deviation of the prelucrated measurements from data from The sensor signals (accelerometer and gyroscope):
 
@@ -41,7 +45,7 @@ fBodyGyroJerkMag
 
 
 Variables Names - The complete list of variables
-=============
+==========
 
 "subject"
 

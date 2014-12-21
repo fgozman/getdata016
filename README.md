@@ -1,7 +1,6 @@
-getdata016 - Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
 ==========
 
-Getting and Cleaning Data Course Project
 
 The run_analisys.R script contains a function called "run_analisys"" that processes the data available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and transform the data to a new tidy data frame that is saved by default to run_analysys.txt.
 
@@ -19,4 +18,7 @@ The run_analysis() function does the following:
 
 6. Save data from 5. to a destination file (by default it is run_analysis.txt)
 
+Usage:
+
+>run_analisys(zipFilePath="UCI_HAR_Dataset.zip", destFile="run_analysis.txt")
 
